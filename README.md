@@ -25,13 +25,17 @@
 
 ![До](photo_1.jpg)
 
+![До](photo_2.jpg)
+
 ![После](res/2_result.jpg)
+
+![После](res/3_result_bin.jpg)
 
 Эрозия
 
 ![До](photo_2.jpg)
 
-![После](res/3_result.jpg)
+![После](res/3_result_er.jpg)
 
  
 ## Сравнение времени выполнения реализации алгоритма:
